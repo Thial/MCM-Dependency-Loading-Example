@@ -1,3 +1,0 @@
-function hello_world()
-	log("[Some Example Mod] Hello World")
-end

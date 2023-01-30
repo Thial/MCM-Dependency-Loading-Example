@@ -1,0 +1,3 @@
+function hello_world()
+	log("[Some Crazy Mod] Hello World")
+end
